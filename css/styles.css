@@ -1,3 +1,18 @@
 body {
-  background: beige;
+  background: #f8e8a6;
+  display: block;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+a {
+  color: green;
+  margin: 0 12px;
+}
+.links {
+  display: flex;
+  justify-content: center;
 }
