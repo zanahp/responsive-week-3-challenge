@@ -12,7 +12,15 @@ a {
   color: green;
   margin: 0 12px;
 }
+
 .links {
   display: flex;
   justify-content: center;
+}
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
 }
