@@ -8,14 +8,14 @@ p {
   text-align: center;
 }
 
-a {
-  color: green;
-  margin: 0 12px;
-}
-
 .links {
   display: flex;
   justify-content: center;
+}
+
+.tabs {
+  color: green;
+  margin: 0 12px;
 }
 
 img {
